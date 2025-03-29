@@ -37,7 +37,7 @@ export const Hero = () => {
                 />
                 <div className="relative rounded-full overflow-hidden border-2 border-white/10">
                   <Image
-                    src="/me.jpg"
+                    src="./me.jpg"
                     alt="Bishwash Chaudhari"
                     width={400}
                     height={400}

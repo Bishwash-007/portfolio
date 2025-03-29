@@ -59,7 +59,7 @@ export const TechStack = () => {
               >
                 <div className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 mb-3 sm:mb-4">
                   <Image
-                    src={`/icons/${tech.icon}`}
+                    src={`./icons/${tech.icon}`}
                     alt={tech.name}
                     width={96}
                     height={96}
